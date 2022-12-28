@@ -1,24 +1,28 @@
 # 원격 저장소 (Github)
 
+## 원격 저장소
+
+- 파일이 원격 저장소 서버에서 관리되며, 여러 사람이 함께 공유하기 위한 저장소
+
 ## 명령
 
-- Push
+- `Push`
     - 로컬 저장소의 버전을 원격 저장소로 보낸다.
-- Pull
+- `Pull`
     - 원격 저장소의 버전을 로컬 저장소로 가져온다.
 
 ## 초기 원격 저장소 설정
 
 - 로컬 저장소에 원격 저장소 정보 설정
-    - git remote add origin (url)
+    - `git remote add origin (url)`
 - 원격 저장소 정보 확인
-    - git remote -v
+    - `git remote -v`
 - 원격 저장소로 보내기
-    - git push origin master → 로컬의 master 를 원격 저장소 origin 으로 보냄
+    - `git push origin master` → 로컬의 master 를 원격 저장소 origin 으로 보냄
 - 원격 저장소에서 받아오기
-    - git pull origin master → 원격 저장소 origin의 내용을 로컬의 master로 받아옴
+    - `git pull origin master` → 원격 저장소 origin의 내용을 로컬의 master로 받아옴
 - 원격 저장소에서 복제 하기
-    - git clone (url) → url 의 원격 저장소 내용을 복제해 온다
+    - `git clone (url) → url` 의 원격 저장소 내용을 복제해 온다
 
 ## gitignore
 

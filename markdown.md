@@ -12,7 +12,7 @@
 ## heading
 
 - 문서의 제목이나 소제목으로 사용됨
-- 문법 : # 'title' 
+- 문법 : `# 'title'` 
 - #의 개수에 따라 대응되는 수준(heading level)이 있고, h1~h6 까지 표현 가능
 
 ## List
@@ -24,45 +24,47 @@
 ## Fenced Code Block
 
 - 코드 블럭을 적용할때 사용됨
-- 문법 : 'code' 를 '```' 으로 감싸줘 표현
-- '```' 뒤에 특정 언어를 적어 syntax highlighting을 표현 가능하다. 
+- 문법 : 'code' 를 ``` 으로 감싸줘 표현
+- 첫 번째 ``` 뒤에 특정 언어를 적어 syntax highlighting을 표현 가능하다. 
 
 ## Inline Code Block
 
 - 특정 단어에 코드 블럭을 적용할 수 있음
-- 문법 : '`' 을 감싸줘 표현
+- 문법 :  ` 을 감싸줘 표현
 
 ## Link
 
 - 문자열을 클릭하면 특정 url 에 연결되게 설정 가능
-- 문법 : '[string]''(url)'로 표현 가능
+- 문법 : `[string](url)`로 표현 가능
 - 디렉토리, 파일 등도 링크 가능하다. 
 
 ## Image
 
 - 이미지를 삽입할 때 사용
-- 문법 : '![string]''(url)'로 표현 
+- 문법 : `![string](url)`로 표현 
 
 ## Blockquotes 
 
 - 인용문
-- 문법 : '>'
+- 문법 : `> string `
 
 ## Table
 
 - extended syntax로, 지원하지 않는 플랫폼도 있다. 
 - 문법
-  - '|text|text|
+  - ```
+    |text|text|
     
     |---|---|
     
-    |test1|test2|'
+    |test1|test2|
+    ```
 
 
 ## 텍스트 강조
 
-- Bold 문법 : string을 '**', '__'로 감싸 표현
-- Italic 문법 : string을 '*', '_'로 감싸 표현
+- Bold 문법 : `**string**, __string__`
+- Italic 문법 : `*string*, _string_`
 
 ## 수평선
 
@@ -70,7 +72,7 @@
 
 ## 취소선
 
-- 문법 : string을 ~~ 로 감싸 표현
+- 문법 : `~~string~~`
 
 ## 마크다운 가이드 링크
 - https://www.markdownguide.org/
