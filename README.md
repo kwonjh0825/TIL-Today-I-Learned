@@ -1,6 +1,6 @@
 # KDT 강의 자료 요약 모음 
 
-## week01
+## week 01
 
 ### day 1 
 - What is markdown 
@@ -17,3 +17,4 @@
 - 원격 저장소 명령
 - 초기 원격 저장소 설정 
 - gitignore
+
