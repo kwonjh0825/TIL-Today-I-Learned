@@ -1,6 +1,8 @@
 # KDT 강의 자료 요약 모음 
 
-## week 01
+<details>
+<summary><h2>week 01</h2></summary>
+<div markdown='1'>
 
 ### day 1 
 - What is markdown 
@@ -18,3 +20,5 @@
 - 초기 원격 저장소 설정 
 - gitignore
 
+</div>
+<summary>
