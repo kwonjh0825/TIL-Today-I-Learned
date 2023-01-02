@@ -31,5 +31,39 @@
 - branch 전략
 - GitHub Flow model(Shared Repository Model, Fork&Pull Model)
 
+### day 5
+
+- FrontEnd, BackEnd, DevOps, Data Scientist
+- SW 직군 채용 공고 사이트
+- 취업 과정
+  
 </div>
-<summary>
+</details>
+
+<details>
+<summary><h2>week 02</h2></summary>
+<div markdown='2'>
+
+### day 1
+
+- 컴퓨터 프로그래밍 언어
+- Python의 특징
+- 객체, 변수
+- 자료형
+  - 수치형
+  - 분리형
+- 연산자
+  - 복합 연산자
+  - 비교 연산자
+  - 논리 연산자
+- 컨테이너
+  - 문자열
+  - 리스트
+  - None
+- 코드 스타일 가이드
+  - 주의사항
+  - 주석
+
+</details>
+</div>
+
