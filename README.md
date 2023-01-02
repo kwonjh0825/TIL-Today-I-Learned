@@ -4,25 +4,25 @@
 <summary><h2>week 01</h2></summary>
 <div markdown='1'>
 
-### day 1 
+### [day 1](week01/markdown.md) 
 
 - What is markdown 
 - Markdown 문법
 
-### day 2
+### [day 2](week01/git.md)
 
 - Git의 버전 관리
 - 기초 흐름
 - 기본 명령어
 
-### day 3
+### [day 3](week01/github.md)
 
 - 원격 저장소 Github
 - 원격 저장소 명령
 - 초기 원격 저장소 설정 
 - gitignore
 
-### day 4
+### [day 4](week01/git_flow.md)
 
 - What is Branch?
 - Branch 관련 명령
@@ -31,7 +31,7 @@
 - branch 전략
 - GitHub Flow model(Shared Repository Model, Fork&Pull Model)
 
-### day 5
+### [day 5](week01/취업특강.md)
 
 - FrontEnd, BackEnd, DevOps, Data Scientist
 - SW 직군 채용 공고 사이트
@@ -44,7 +44,7 @@
 <summary><h2>week 02</h2></summary>
 <div markdown='2'>
 
-### day 1
+### [day 1](week02/python_day1.md)
 
 - 컴퓨터 프로그래밍 언어
 - Python의 특징
