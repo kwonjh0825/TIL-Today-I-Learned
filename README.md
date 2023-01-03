@@ -64,6 +64,14 @@
   - 주의사항
   - 주석
 
+### [day2](week02/python_day2.md)
+
+- 형 변환(암시적/명시적)
+- String Formatting
+- range
+- 제어문
+  - 조건문
+  - 반복문
 </details>
 </div>
 
