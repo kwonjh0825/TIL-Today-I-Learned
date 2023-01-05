@@ -79,6 +79,17 @@
 - 사용자 함수
 - 내장 함수
   - 자주 사용하는 내장 함수들
+
+### [day4](week02/python_day4.md)
+- Dictionary
+- 모듈, 패키지, 라이브러리
+- 파이썬 표준 라이브러리
+  - random
+  - datetime
+  - os
+- 디버깅
+- 에러
+- 예외처리
 </details>
 </div>
 
