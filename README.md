@@ -90,6 +90,10 @@
 - 디버깅
 - 에러
 - 예외처리
+
+### [day5](week02/python_day5.md)
+- 파일 입/출력
+- JSON
 </details>
 </div>
 
