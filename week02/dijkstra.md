@@ -30,7 +30,7 @@
     INF = int(1e9)
     
     n, m = map(int, input().split())   # 노드의 개수, 간선의 개수
-    start = int(input()
+    start = int(input())
     graph = [[] for i in range(n+1)]
     visited = [False] * (n + 1)
     distance = [INF] * (n + 1)
