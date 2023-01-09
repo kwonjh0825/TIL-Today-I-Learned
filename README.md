@@ -1,4 +1,4 @@
-# KDT 강의 자료 요약 모음 
+# KDT 강의 자료 요약 모음
 
 <details>
 <summary><h2>week 01</h2></summary>
@@ -6,7 +6,7 @@
 
 ### [day 1](week01/markdown.md) 
 
-- What is markdown 
+- What is markdown
 - Markdown 문법
 
 ### [day 2](week01/git.md)
@@ -19,7 +19,7 @@
 
 - 원격 저장소 Github
 - 원격 저장소 명령
-- 초기 원격 저장소 설정 
+- 초기 원격 저장소 설정
 - gitignore
 
 ### [day 4](week01/git_flow.md)
@@ -42,7 +42,7 @@
 
 <details>
 <summary><h2>week 02</h2></summary>
-<div markdown='2'>
+<div markdown='1'>
 
 ### [day 1](week02/python_day1.md)
 
@@ -81,6 +81,7 @@
   - 자주 사용하는 내장 함수들
 
 ### [day4](week02/python_day4.md)
+
 - Dictionary
 - 모듈, 패키지, 라이브러리
 - 파이썬 표준 라이브러리
@@ -92,8 +93,27 @@
 - 예외처리
 
 ### [day5](week02/python_day5.md)
+
 - 파일 입/출력
 - JSON
-</details>
-</div>
 
+</div>
+</details>
+
+
+<details>
+<summary><h2>week03</h2></summary>
+<div markdown='1'>
+
+### [day1](week03/python_day6.md)
+
+- tuple
+- set
+- type에 따른 method
+  - string
+  - list
+  - set
+  - dictionary
+
+</div>
+</details>
