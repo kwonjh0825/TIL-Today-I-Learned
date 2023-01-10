@@ -100,7 +100,6 @@
 </div>
 </details>
 
-
 <details>
 <summary><h2>week03</h2></summary>
 <div markdown='1'>
@@ -114,6 +113,13 @@
   - list
   - set
   - dictionary
+
+### [day2](week03/python_day7.md)
+
+- 사용자 정의 함수
+- 함수의 입력
+- 함수의 결과값
+- 함수의 범위
 
 </div>
 </details>
