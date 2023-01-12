@@ -129,5 +129,17 @@
   - 인스턴스 변수
   - 인스턴스 메서드
 
+### [day4](week03/python_day9.md)
+
+- 클래스
+- 상속
+- Python 추가 문법
+  - 조건 표현식
+  - List Comprehension
+  - Dictionary Comprehension
+  - lambda 표현식
+- Type annotation
+- Positional-only parameters
+
 </div>
 </details>
