@@ -141,5 +141,12 @@
 - Type annotation
 - Positional-only parameters
 
+### [day5](week03/python_day10.md)
+
+- API
+- API 활용 시 확인 사항
+- 3주차 프로젝트
+- 프로젝트 후기
+
 </div>
 </details>
