@@ -150,3 +150,16 @@
 
 </div>
 </details>
+
+<details>
+<summary><h2>week 04</h2></summary>
+<div markdown='1'>
+
+### [day1](week04/algorithm_day1.md)
+
+- 알고리즘
+- 코딩테스트에서 평가하는 두 가지 사항
+- 1일차 알고리즘 실습
+
+</div>
+</details>
