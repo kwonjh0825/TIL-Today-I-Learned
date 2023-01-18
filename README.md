@@ -152,7 +152,7 @@
 </details>
 
 <details>
-<summary><h2>week 04</h2></summary>
+<summary><h2>week 04</h2></summary>gt
 <div markdown='1'>
 
 ### [day1](week04/algorithm_day1.md)
@@ -168,6 +168,12 @@
   - 배열
   - 연결 리스트
 - 2일차 알고리즘 실습
+
+### [day3](week04/algorithm_day3.md)
+
+- 문자열 조작
+- 아스키 코드
+- 3일차 알고리즘 실습
 
 </div>
 </details>
