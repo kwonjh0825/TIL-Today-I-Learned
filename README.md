@@ -175,5 +175,11 @@
 - 아스키 코드
 - 3일차 알고리즘 실습
 
+### [day4](week04/algorithm_day4.md)
+
+- 해시 테이블
+- Dictionary
+- 4일차 알고리즘 실습
+
 </div>
 </details>
