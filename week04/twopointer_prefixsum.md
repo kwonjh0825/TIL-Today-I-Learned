@@ -20,7 +20,7 @@
         		interval_sum += data[end]
         		end += 1
         	if interval_sum == m:
-        		count ++ 1
+        		count += 1
         	interval_sum -= data[start]
         ```
         
