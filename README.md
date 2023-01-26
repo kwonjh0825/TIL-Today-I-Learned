@@ -152,7 +152,7 @@
 </details>
 
 <details>
-<summary><h2>week 04</h2></summary>gt
+<summary><h2>week 04</h2></summary>
 <div markdown='1'>
 
 ### [day1](week04/algorithm_day1.md)
@@ -180,6 +180,24 @@
 - 해시 테이블
 - Dictionary
 - 4일차 알고리즘 실습
+
+### [day5](week04/algorithm_day5.md)
+
+- 특강
+- 코딩테스트 모의고사
+
+</div>
+</details>
+
+<details>
+<summary><h2>week 05</h2></summary>
+<div markdown='1'>
+
+### [day1](week05/algorithm_day6.md)
+
+- 스택
+- 큐
+- 6일차 알고리즘 실습
 
 </div>
 </details>
