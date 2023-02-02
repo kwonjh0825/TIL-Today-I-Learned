@@ -199,5 +199,40 @@
 - 큐
 - 6일차 알고리즘 실습
 
+### [day2](week05/algorithm_day7.md)
+
+- 우선순위 큐
+- 힙
+- 셋
+- 7일차 알고리즘 실습
+
+</div>
+</details>
+
+<details>
+<summary><h2>week 06</h2></summary>
+<div markdown='1'>
+
+### [day1](week06/algorithm_day8.md)
+
+- 이차원 리스트
+- 8일차 알고리즘 실습
+
+### [day2](week06/algorithm_day9.md)
+
+- 이차원 리스트 순회
+- 이차원 리스트 전치
+- 이차원 리스트 회전
+
+### [day3](week06/algorithm_day10.md)
+
+- Brute-force
+- Delta search
+
+### [day4](week06/algorithm_day11.md)
+
+- 그래프
+- 그래프의 표현 방법
+
 </div>
 </details>
