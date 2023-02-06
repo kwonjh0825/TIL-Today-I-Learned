@@ -241,3 +241,15 @@
 
 </div>
 </details>
+
+<details>
+<summary><h2>week 06</h2></summary>
+<div markdown='1'>
+
+### [day1](week07/algorithm_day13.md)
+
+- 그래프 탐색 알고리즘
+- DFS
+
+</div>
+</details>
