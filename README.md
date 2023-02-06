@@ -243,7 +243,7 @@
 </details>
 
 <details>
-<summary><h2>week 06</h2></summary>
+<summary><h2>week 07</h2></summary>
 <div markdown='1'>
 
 ### [day1](week07/algorithm_day13.md)
