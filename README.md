@@ -251,5 +251,12 @@
 - 그래프 탐색 알고리즘
 - DFS
 
+### [day2](week07/algorithm_day14.md)
+
+- 기본 코딩테스트 유형
+- 단순 구현 방법
+
+### [day3]
+
 </div>
 </details>
