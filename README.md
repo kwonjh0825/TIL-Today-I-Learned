@@ -256,7 +256,20 @@
 - 기본 코딩테스트 유형
 - 단순 구현 방법
 
-### [day3]
+### [day3](week07/DB_day1.md)
+
+- 데이터베이스의 필요성
+- 데이터베이스란 무엇인가
+- 관계형 데이터베이스
+- RDBMS
+
+### [day4](week07/DB_day2.md)
+
+- SQL
+- SQL statement
+- SQL 용어 정리
+- Querying data
+- Sorting data
 
 </div>
 </details>
