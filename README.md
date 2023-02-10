@@ -271,5 +271,10 @@
 - Querying data
 - Sorting data
 
+### [day5](week07/algorithm_test.md)
+
+- 모의고사 문제 풀이
+- 모의고사 후기
+
 </div>
 </details>

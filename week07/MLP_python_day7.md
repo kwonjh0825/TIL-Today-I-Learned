@@ -11,9 +11,9 @@
 - 행과 열의 사이즈 지정
   - `sheet.row_dimensions[idx].height = (높이)`: 행의 높이 지정
   - `sheet.column_dimensions[col].width = (너비)`: 열의 너비 지정
-- 정렬방식, 폰트지정, 선긋기: styles 객체의 Alignment, Font, Border, Side 클래스 활용
-- 모든 열을 대상으로 작업: sheet 객체의 colums 활용
-- 모든 행을 대상으로 작업: sheet 객체의 rows 활용
+- 정렬방식, 폰트지정, 선긋기: styles 객체의 `Alignment`, `Font`, `Border`, `Side` 클래스 활용
+- 모든 열을 대상으로 작업: sheet 객체의 `columns` 활용
+- 모든 행을 대상으로 작업: sheet 객체의 `rows` 활용
 - 특정 셀 집합에 대한 슬라이싱 가능
     
     ```python
@@ -23,6 +23,6 @@
     		print(cell.value)
     ```
     
-- 행, 열 추가 및 삭제: insert(delete)_rows(cols)
-- 셀 병합: merge_cells
-- 시트 추가: create_sheet
+- 행, 열 추가 및 삭제: `insert(delete)_rows(cols)`
+- 셀 병합: `merge_cells`
+- 시트 추가: `create_sheet`
