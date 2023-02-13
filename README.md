@@ -278,3 +278,15 @@
 
 </div>
 </details>
+
+<details>
+<summary><h2>week 08</h2></summary>
+<div markdown='1'>
+
+### [day1](week08/DB_day3.md)
+
+- Filtering data
+- Grouping data
+
+</div>
+</details>
