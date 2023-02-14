@@ -288,5 +288,12 @@
 - Filtering data
 - Grouping data
 
+### [day2](week08/DB_day4.md)
+
+- 테이블 생성
+- 테이블 삭제
+- 테이블 조작
+- 데이터 조작
+
 </div>
 </details>
