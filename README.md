@@ -295,5 +295,11 @@
 - 테이블 조작
 - 데이터 조작
 
+### [day3](week08/DB_day5.md)
+
+- Joining table
+  - INNER JOIN
+  - OUTER JOIN
+
 </div>
 </details>
