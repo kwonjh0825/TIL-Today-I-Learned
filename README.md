@@ -301,5 +301,11 @@
   - INNER JOIN
   - OUTER JOIN
 
+### [day4](week08/DB_day6.md)
+
+- Subquery
+- EXISTS
+- CASE
+
 </div>
 </details>
