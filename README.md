@@ -307,5 +307,12 @@
 - EXISTS
 - CASE
 
+### [day5](week08/DB_day7.md)
+
+- Programmers MySQL level 1, 2 문제 풀이
+- IFNULL
+- 소수점 처리 관련 함수
+- 문자열 자르기 / 나누기
+
 </div>
 </details>
