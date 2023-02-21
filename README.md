@@ -326,6 +326,10 @@
 - Transaction
 - Trigger
 
+### [day2](week09/DB_day9.md)
+
+- 정규화
+- 데이터 모델링
 
 </div>
 </details>
