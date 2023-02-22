@@ -331,5 +331,12 @@
 - 정규화
 - 데이터 모델링
 
+### [day3](week09/web_day1.md)
+
+- Web Page
+- Structuring Web
+  - HTML
+  - CSS
+
 </div>
 </details>
