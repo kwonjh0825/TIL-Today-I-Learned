@@ -338,5 +338,11 @@
   - HTML
   - CSS
 
+### [day4](week09/web_day2.md)
+
+- CSS Box Model
+  - Box 구성
+  - Box Type
+
 </div>
 </details>
