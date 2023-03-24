@@ -46,3 +46,4 @@
 ## admin 계정 생성
 
 - `python manage.py createsuperuser`
+- 유저 이름, 비밀번호, 이메일 지정 가능
