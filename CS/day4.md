@@ -97,7 +97,6 @@
 |  | 프로세스 | 스레드 |
 | --- | --- | --- |
 | 통신 | 프로세스 간 통신에 IPC 필요 | 스레드 간 통신에 IPC 필요 x |
-| 영역 공유 | Code, Data, Heap, Stack 영역 각자 보유 | Code, Data, Heap 영역 공유
-Stack 영역 각자 보유 |
+| 영역 공유 | Code, Data, Heap, Stack 영역 각자 보유 | Code, Data, Heap 영역 공유, Stack 영역 각자 보유 |
 | 생성, Context switching 비용 | 많은 비용 | 적은 비용 |
 | 독립성 | 다른 프로세스에 영향을 미치지 않음 | 다른 스레드에 영향을 미칠 수 있음 |
